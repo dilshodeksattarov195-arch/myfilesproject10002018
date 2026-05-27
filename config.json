@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userpelete",
+        "uuid": 11962704,
+        "checksum": "bo0kae"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
